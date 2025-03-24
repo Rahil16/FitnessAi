@@ -63,7 +63,3 @@ Contributions are welcome! Feel free to **fork** the repo and submit a **pull re
 ## License
 
 This project is licensed under the **MIT License**.
-
-## Contact
-
-For questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/rahil-tanna-b2a8a9249/).
